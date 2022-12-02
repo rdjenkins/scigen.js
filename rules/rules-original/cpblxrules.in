@@ -1013,38 +1013,78 @@ VS_TAGS #volunteers
 ###  Brexit  #########
 ######################
 
-BREXIT_WHY_CASE BREXIT_WHY_HOW_WHAT BREXIT_WHY_HOW_WHAT_FILLERQ BREXIT_WHY_HOW_WHAT_FILLERQ BREXIT_WHY_HOW_WHAT_FILLER BREXIT_WHY_HOW_WHAT_FOLLOW
-BREXIT_WHY_CASE BREXIT_WHY_HOW_WHAT BREXIT_WHY_HOW_WHAT_FILLER BREXIT_WHY_HOW_WHAT_FILLER BREXIT_WHY_HOW_WHAT_FOLLOW
+BREXIT_DOING_SENTENCE BREXIT_DOING BREXIT_THE_WHY BREXIT_LINK BREXIT_THE_WHY.
 
-BREXIT_WHY_HOW_WHAT_FOLLOW That's why we GENERIC_VERB, we GENERIC_VERB, and we GENERIC_VERB - BREXIT_DOING our BREXIT_THE_WHY.
+BREXIT_FIVE_THINGS_LIST Five things for BREXIT_DOING. 1) BREXIT_THING_WE_DO, 2) BREXIT_THING_WE_DO, 3) GENERIC_THING_WE_DO, 4) GENERIC_THING_WE_DO, 5) BREXIT_THING_WE_DO
+
+BREXIT_THREE_THINGS_LIST Three things for BREXIT_DOING. 1) BREXIT_THING_WE_DO, 2) GENERIC_THING_WE_DO, 3) BREXIT_THING_WE_DO
+
+BREXIT_WHY_CASE BREXIT_WHY_HOW_WHAT BREXIT_WHY_HOW_WHAT_FILLING BREXIT_WHY_HOW_WHAT_FOLLOW
+
+BREXIT_WHY_HOW_WHAT_FOLLOW That's why we GENERIC_VERB, we BREXIT_VERB, and we GENERIC_VERB - BREXIT_DOING our BREXIT_THE_WHY.
+BREXIT_WHY_HOW_WHAT_FOLLOW Deliver the BREXIT_THING and the BREXIT_PEOPLE will follow.
+BREXIT_WHY_HOW_WHAT_FOLLOW Let us now BREXIT_DO our BREXIT_THE_WHY.
 BREXIT_WHY_HOW_WHAT_FOLLOW We are not ashamed to GENERIC_VERB, to GENERIC_VERB, and to GENERIC_VERB - always BREXIT_DOING our BREXIT_THE_WHY.
+BREXIT_WHY_HOW_WHAT_FOLLOW BREXIT_ADVERB BREXIT_VERB, then we can BREXIT_VERB and GENERIC_VERB.
 
+BREXIT_WHY_HOW_WHAT_FILLING BREXIT_WHY_HOW_WHAT_FILLER_ANY BREXIT_WHY_HOW_WHAT_FILLER_ANY BREXIT_WHY_HOW_WHAT_FILLER_ANY
+BREXIT_WHY_HOW_WHAT_FILLING BREXIT_WHY_HOW_WHAT_FILLER_ANY BREXIT_WHY_HOW_WHAT_FILLER_ANY
+BREXIT_WHY_HOW_WHAT_FILLING BREXIT_WHY_HOW_WHAT_FILLER_ANY
+
+BREXIT_WHY_HOW_WHAT_FILLER_ANY BREXIT_WHY_HOW_WHAT_FILLER
+BREXIT_WHY_HOW_WHAT_FILLER_ANY BREXIT_WHY_HOW_WHAT_FILLERQ
+
+BREXIT_WHY_HOW_WHAT_FILLER If you asked any BREXIT_COUNTRY GENERIC_PERSON they'd say BREXIT_DOING should have been done GENERIC_PAST_MOMENT.
+BREXIT_WHY_HOW_WHAT_FILLER We BREXIT_VERBED many BREXIT_THING_P but not a single BREXIT_THING_S.
 BREXIT_WHY_HOW_WHAT_FILLER We started with BREXIT_THE_WHY.
+BREXIT_WHY_HOW_WHAT_FILLER We held ourselves back when we spent time BREXIT_DOING_SENTENCE
+BREXIT_WHY_HOW_WHAT_FILLER A few BREXIT_PEOPLE said BREXIT_THING_S was not possible before delivering several BREXIT_THING_P.
+BREXIT_WHY_HOW_WHAT_FILLER Sometimes it seems BREXIT_DOING is not BREXIT_ADJ enough.
 BREXIT_WHY_HOW_WHAT_FILLER Others have only GENERIC_DELIVERED_VERBED BREXIT_THE_WHY.
-BREXIT_WHY_HOW_WHAT_FILLER Before GENERIC_PAST_MOMENT there were only GENERIC_NOUNS or BREXIT_THE_WHY.
+BREXIT_WHY_HOW_WHAT_FILLER GENERIC_PAST_MOMENT there were only GENERIC_NOUNS or BREXIT_THE_WHY.
 
 BREXIT_WHY_HOW_WHAT_FILLERQ Who wouldn't want to GENERIC_DELIVER_VERB BREXIT_THE_WHY?
 BREXIT_WHY_HOW_WHAT_FILLERQ What drives our BREXIT_THE_WHY?
 BREXIT_WHY_HOW_WHAT_FILLERQ Why fail to GENERIC_DELIVER_VERB BREXIT_THE_WHY?
 BREXIT_WHY_HOW_WHAT_FILLERQ What has led us to GENERIC_DELIVER_VERB our BREXIT_THE_WHY?
 BREXIT_WHY_HOW_WHAT_FILLERQ When will we achieve BREXIT_THE_WHY?
+BREXIT_WHY_HOW_WHAT_FILLERQ How can we GENERIC_DELIVER_VERB the BREXIT_THE_WHY?
 
 BREXIT_WHY_HOW_WHAT WHW_START BREXIT_THE_WHY, through BREXIT_THE_WHY, by BREXIT_THING_WE_DO.
 BREXIT_WHY_HOW_WHAT WHW_START BREXIT_THE_WHY, using BREXIT_THE_WHY, and by BREXIT_THING_WE_DO.
 BREXIT_WHY_HOW_WHAT WHW_START BREXIT_THE_WHY by building BREXIT_THE_WHY, and using BREXIT_THING_WE_DO.
-BREXIT_WHY_HOW_WHAT We GENERIC_VERB BREXIT_NOUNS using BREXIT_THE_WHY, GENERIC_DELIVERED_VERBED by BREXIT_THING_WE_DO.
+BREXIT_WHY_HOW_WHAT We GENERIC_VERB BREXIT_THING using BREXIT_THE_WHY, GENERIC_DELIVERED_VERBED by BREXIT_THING_WE_DO.
 
 BREXIT_THING_WE_DO+5 BREXIT_DOING BREXIT_THE_WHY
 BREXIT_THING_WE_DO BREXIT_DOING our country's BREXIT_THE_WHY
-BREXIT_THING_WE_DO BREXIT_DOING independent BREXIT_THE_WHY
-BREXIT_THING_WE_DO BREXIT_DOING BREXIT_NOUNS
-BREXIT_THING_WE_DO BREXIT_DOING new BREXIT_NOUNS
+BREXIT_THING_WE_DO BREXIT_DOING independently BREXIT_THE_WHY
+BREXIT_THING_WE_DO BREXIT_DOING BREXIT_THING
+BREXIT_THING_WE_DO BREXIT_DOING of new BREXIT_THING_P
+BREXIT_THING_WE_DO BREXIT_DOING a new BREXIT_THING_S
 
 BREXIT_DOING+3 BREXIT_ADVERB BREXIT_VERBING
 BREXIT_DOING GENERIC_ADVERB BREXIT_VERBING
 BREXIT_DOING BREXIT_ADVERB GENERIC_VERBING
 
-BREXIT_THE_WHY BREXIT_ADJ BREXIT_NOUNS
+BREXIT_DO BREXIT_ADVERB BREXIT_VERB
+
+BREXIT_THE_WHY+3 BREXIT_ADJ BREXIT_THING
+BREXIT_THE_WHY BREXIT_VERBING of BREXIT_PEOPLE
+
+BREXIT_COUNTRY Scottish
+BREXIT_COUNTRY Welsh
+BREXIT_COUNTRY Irish
+BREXIT_COUNTRY English
+BREXIT_COUNTRY Anglo Saxon
+BREXIT_COUNTRY Immigrant
+BREXIT_COUNTRY Cornish
+BREXIT_COUNTRY Isle of Man
+BREXIT_COUNTRY Kentish
+
+BREXIT_PEOPLE Remainers
+BREXIT_PEOPLE Brexiteers
+BREXIT_PEOPLE capitalists
+BREXIT_PEOPLE policitians
 
 BREXIT_ADVERB enthusiastically
 BREXIT_ADVERB proactively
@@ -1057,7 +1097,7 @@ BREXIT_ADVERB patriotically
 BREXIT_ADVERB oven-readily
 BREXIT_ADVERB greatly
 BREXIT_ADVERB sun-lit pasture chasingly
-BREXIT_ADVERB Eurosceptically
+BREXIT_ADVERB eurosceptically
 BREXIT_ADVERB outscoldingly
 BREXIT_ADVERB termagantly
 BREXIT_ADVERB discombobulatingly
@@ -1066,15 +1106,30 @@ BREXIT_ADVERB specifically - and in a limited way -
 BREXIT_ADVERB bloviatingly
 BREXIT_ADVERB shape-shiftingly
 BREXIT_ADVERB imposingly
-BREXIT_ADVERB prospering mightily
+BREXIT_ADVERB mightily and prosperingly
 BREXIT_ADVERB bigly
 
 BREXIT_VERBING free-ing
 BREXIT_VERBING 'Great Britainly leading'
 BREXIT_VERBING unleashing
-BREXIT_VERBING castigating of
+BREXIT_VERBING castigating
 BREXIT_VERBING oppignorating
 BREXIT_VERBING border-controlling
+
+BREXIT_VERB unleash
+BREXIT_VERB accelerate
+BREXIT_VERB advance
+BREXIT_VERB castigate
+BREXIT_VERB border-control
+BREXIT_VERB escape
+
+BREXIT_VERBED unleashed
+BREXIT_VERBED accelerated
+BREXIT_VERBED advanced
+BREXIT_VERBED castigated
+BREXIT_VERBED border-controlled
+BREXIT_VERBED escaped
+
 
 BREXIT_ADJ UK-centric
 BREXIT_ADJ nook-shotten
@@ -1085,86 +1140,88 @@ BREXIT_ADJ EU-ready
 BREXIT_ADJ well-thought-out
 BREXIT_ADJ post-Brexit advantaged
 
-BREXIT_NOUNS 21st century global trade
-BREXIT_NOUNS Great GB approaches
-BREXIT_NOUNS big British data outputs
-BREXIT_NOUNS British guile
-BREXIT_NOUNS independence and fortune-sharing
-BREXIT_NOUNS Royal approval
-BREXIT_NOUNS trade delivery models
-BREXIT_NOUNS 'Antipodean farm to British table' time
-BREXIT_NOUNS free ports
-BREXIT_NOUNS wealth gap closure
-BREXIT_NOUNS immigration workforce resilience
-BREXIT_NOUNS inward investments
-BREXIT_NOUNS key excellence indicators
-BREXIT_NOUNS global mastery
-BREXIT_NOUNS freedom-fighting culture
-BREXIT_NOUNS export productivity
-BREXIT_NOUNS patent care
-BREXIT_NOUNS international focus
-BREXIT_NOUNS British safety
-BREXIT_NOUNS democratically-reported outcomes
-BREXIT_NOUNS paid-for performance value
-BREXIT_NOUNS voter approval
-BREXIT_NOUNS population wealth
-BREXIT_NOUNS referendum reporting
-BREXIT_NOUNS global outlook reprofiling
-BREXIT_NOUNS 'honoring the referendum' delivery teams
-BREXIT_NOUNS export throughput
-BREXIT_NOUNS import procurement
-BREXIT_NOUNS Team GB transformation
-BREXIT_NOUNS revokement
-BREXIT_NOUNS sotissiers
-BREXIT_NOUNS enjambment
-BREXIT_NOUNS factotums
-BREXIT_NOUNS gimcracks
-BREXIT_NOUNS monstrous imposition
-BREXIT_NOUNS sententious guff
-BREXIT_NOUNS 'getting Brexit done'
-BREXIT_NOUNS diminishing of the Islington remainer elite
-BREXIT_NOUNS border control models
-BREXIT_NOUNS fish pillaging
-BREXIT_NOUNS tariff arbitrage
-BREXIT_NOUNS freeports
-BREXIT_NOUNS sovereign equals
-BREXIT_NOUNS activist lawyers
-BREXIT_NOUNS lorry parks
-BREXIT_NOUNS 'Brexit negotiation blame games'
-BREXIT_NOUNS smearing of 'grubby directors of immigration solicitor companies'
-BREXIT_NOUNS opposition of things we never fought for in WWII
-BREXIT_NOUNS 'cod wars'
-BREXIT_NOUNS breaking of international law 'in a very specific and limited way'
-BREXIT_NOUNS 'truth twisters'
-BREXIT_NOUNS prorogations
-BREXIT_NOUNS delivery of an Internal Market Bill
-BREXIT_NOUNS trips to Perugia
-BREXIT_NOUNS 'festival of Brexit' plans
-BREXIT_NOUNS Kent lorry parks
-BREXIT_NOUNS opportunities for Remainers to have a go at Brexit
-BREXIT_NOUNS rebranding of 'no deal' as an 'Australian deal'
-BREXIT_NOUNS canary traps
-BREXIT_NOUNS 'veritable geysers of confected indignation'
-BREXIT_NOUNS post-Brexit travel rules
-BREXIT_NOUNS accelerated approval of vaccines
-BREXIT_NOUNS sovereign control of borders
-BREXIT_NOUNS Northern Ireland protocols
-BREXIT_NOUNS £840 rolls of wallpaper
-BREXIT_NOUNS sausage exports
-BREXIT_NOUNS triggering of the Downstream Oil Protocol
-BREXIT_NOUNS 'use of prisoners to process meat'
-BREXIT_NOUNS 'sewage alerts'
-BREXIT_NOUNS 'removal of GB car stickers'
-BREXIT_NOUNS lorry tailbacks for customs declarations
-BREXIT_NOUNS 'pyramids of piffle'
-BREXIT_NOUNS glittering generalities
-BREXIT_NOUNS implementation of Sanitary and Phytosanitary (SPS) checks
-BREXIT_NOUNS levelling-up
-BREXIT_NOUNS 'Hasta la vista!'s
-BREXIT_NOUNS tackling of 'anti-growth coalitions'
-BREXIT_NOUNS leadership campaigns
-BREXIT_NOUNS Trussonomics
-BREXIT_NOUNS challenges of Treasury orthodoxy
+BREXIT_THING BREXIT_THING_P
+BREXIT_THING BREXIT_THING_S
+
+BREXIT_THING_S 21st century global trade
+BREXIT_THING_P Great GB approaches
+BREXIT_THING_P big British data outputs
+BREXIT_THING_S British guile
+BREXIT_THING_S independence and fortune-sharing
+BREXIT_THING_S Royal approval
+BREXIT_THING_P trade delivery models
+BREXIT_THING_S 'Antipodean farm to British table' time
+BREXIT_THING_S wealth gap closure
+BREXIT_THING_S immigration workforce resilience
+BREXIT_THING_P inward investments
+BREXIT_THING_P key excellence indicators
+BREXIT_THING_S global mastery
+BREXIT_THING_S freedom-fighting culture
+BREXIT_THING_S export productivity
+BREXIT_THING_S patent care
+BREXIT_THING_S international focus
+BREXIT_THING_S British safety
+BREXIT_THING_P democratically-reported outcomes
+BREXIT_THING_S paid-for performance value
+BREXIT_THING_S voter approval
+BREXIT_THING_S population wealth
+BREXIT_THING_S referendum reporting
+BREXIT_THING_S global outlook reprofiling
+BREXIT_THING_P 'honoring the referendum' delivery teams
+BREXIT_THING_S export throughput
+BREXIT_THING_S import procurement
+BREXIT_THING_S Team GB transformation
+BREXIT_THING_S revokement
+BREXIT_THING_P sotissiers
+BREXIT_THING_S enjambment
+BREXIT_THING_P factotums
+BREXIT_THING_P gimcracks
+BREXIT_THING_S monstrous imposition
+BREXIT_THING_P sententious guff
+BREXIT_THING_S 'getting Brexit done'
+BREXIT_THING_S diminishing of the Islington remainer elite
+BREXIT_THING_P border control models
+BREXIT_THING_S fish pillaging
+BREXIT_THING_S tariff arbitrage
+BREXIT_THING_P freeports
+BREXIT_THING_P sovereign equals
+BREXIT_THING_P activist lawyers
+BREXIT_THING_P lorry parks
+BREXIT_THING_P 'Brexit negotiation blame games'
+BREXIT_THING_P smearing of 'grubby directors of immigration solicitor companies'
+BREXIT_THING_S opposition of things we never fought for in WWII
+BREXIT_THING_P 'cod wars'
+BREXIT_THING_S breaking of international law 'in a very specific and limited way'
+BREXIT_THING_P 'truth twisters'
+BREXIT_THING_P prorogations
+BREXIT_THING_S delivery of an Internal Market Bill
+BREXIT_THING_P trips to Perugia
+BREXIT_THING_P 'festival of Brexit' plans
+BREXIT_THING_P Kent lorry parks
+BREXIT_THING_P opportunities for Remainers to have a go at Brexit
+BREXIT_THING_S rebranding of 'no deal' as an 'Australian deal'
+BREXIT_THING_P canary traps
+BREXIT_THING_P 'veritable geysers of confected indignation'
+BREXIT_THING_P post-Brexit travel rules
+BREXIT_THING_P accelerated approval of vaccines
+BREXIT_THING_S sovereign control of borders
+BREXIT_THING_P Northern Ireland protocols
+BREXIT_THING_P £840 rolls of wallpaper
+BREXIT_THING_P sausage exports
+BREXIT_THING_S triggering of the Downstream Oil Protocol
+BREXIT_THING_S 'use of prisoners to process meat'
+BREXIT_THING_P 'sewage alerts'
+BREXIT_THING_S 'removal of GB car stickers'
+BREXIT_THING_P lorry tailbacks for customs declarations
+BREXIT_THING_P 'pyramids of piffle'
+BREXIT_THING_P glittering generalities
+BREXIT_THING_S implementation of Sanitary and Phytosanitary (SPS) checks
+BREXIT_THING_S levelling-up
+BREXIT_THING_P 'Hasta la vista!'s
+BREXIT_THING_S tackling of 'anti-growth coalitions'
+BREXIT_THING_P leadership campaigns
+BREXIT_THING_S Trussonomics
+BREXIT_THING_S challenges of Treasury orthodoxy
 
 BREXIT_LINK forced upon
 BREXIT_LINK controlled through
@@ -1207,7 +1264,7 @@ WHY_HOW_WHAT_FOLLOW We are not ashamed to GENERIC_VERB, to GENERIC_VERB, and to 
 
 WHY_HOW_WHAT_FILLER We started with THE_WHY.
 WHY_HOW_WHAT_FILLER Others have only GENERIC_DELIVERED_VERBED THE_WHY.
-WHY_HOW_WHAT_FILLER Before GENERIC_PAST_MOMENT there were only GENERIC_NOUNS or THE_WHY.
+WHY_HOW_WHAT_FILLER GENERIC_PAST_MOMENT there were only GENERIC_NOUNS or THE_WHY.
 
 WHY_HOW_WHAT_FILLERQ Who wouldn't want to GENERIC_DELIVER_VERB THE_WHY?
 WHY_HOW_WHAT_FILLERQ What drives our THE_WHY?
@@ -1225,10 +1282,12 @@ GENERIC_THING_WE_DO GENERIC_DOING our THE_WHY
 GENERIC_THING_WE_DO GENERIC_DOING global THE_WHY
 GENERIC_THING_WE_DO GENERIC_DOING GENERIC_NOUNS
 GENERIC_THING_WE_DO GENERIC_DOING new GENERIC_NOUNS
+GENERIC_THING_WE_DO GENERIC_DOING a new GENERIC_NOUN
 
 GENERIC_DOING GENERIC_ADVERB GENERIC_VERBING
 
 THE_WHY GENERIC_ADJ GENERIC_NOUNS
+THE_WHY GENERIC_ADJ of a GENERIC_NOUN
 
 
 
@@ -1327,6 +1386,7 @@ GENERIC_VERBING maturing
 GENERIC_VERBING maximizing
 GENERIC_VERBING mobilising
 GENERIC_VERBING redefining
+GENERIC_VERBING releasing
 GENERIC_VERBING reinventing
 GENERIC_VERBING thrusting
 GENERIC_VERBING transforming
@@ -1428,6 +1488,7 @@ GENERIC_ADJ holistic
 GENERIC_ADJ hyper-scale
 GENERIC_ADJ impactful
 GENERIC_ADJ imputed
+GENERIC_ADJ immutable
 GENERIC_ADJ inexpensive
 GENERIC_ADJ innovative
 GENERIC_ADJ installed base
@@ -1534,71 +1595,74 @@ GENERIC_ADJ data-driven
 GENERIC_ADJ data-focused
 GENERIC_ADJ circling back
 
-GENERIC_NOUNS ROI
+GENERIC_THING GENERIC_NOUN
+GENERIC_THING GENERIC_NOUNS
+
+GENERIC_NOUN ROI
 GENERIC_NOUNS USPs
-GENERIC_NOUNS UX
+GENERIC_NOUN UX
 GENERIC_NOUNS action items
-GENERIC_NOUNS adoption
+GENERIC_NOUN adoption
 GENERIC_NOUNS advanced analytics
 GENERIC_NOUNS alignments
 GENERIC_NOUNS applications
 GENERIC_NOUNS approaches
 GENERIC_NOUNS architectures
 GENERIC_NOUNS autonomous ergonomics
-GENERIC_NOUNS bandwidth
+GENERIC_NOUN bandwidth
 GENERIC_NOUNS benefits
 GENERIC_NOUNS best practices
-GENERIC_NOUNS bottom line
-GENERIC_NOUNS capability building
+GENERIC_NOUN bottom line
+GENERIC_NOUN capability building
 GENERIC_NOUNS catalysts for change
 GENERIC_NOUNS causalities
 GENERIC_NOUNS channels
-GENERIC_NOUNS cloud functionality
+GENERIC_NOUN cloud functionality
 GENERIC_NOUNS clouds
 GENERIC_NOUNS collaboration and idea-sharing
 GENERIC_NOUNS communities
 GENERIC_NOUNS communities of practice
-GENERIC_NOUNS consumer empowerment
-GENERIC_NOUNS content
-GENERIC_NOUNS convergence
+GENERIC_NOUN consumer empowerment
+GENERIC_NOUN content
+GENERIC_NOUN convergence
 GENERIC_NOUNS core competencies
-GENERIC_NOUNS corporate buy-in
+GENERIC_NOUN corporate buy-in
 GENERIC_NOUNS critical success factors
-GENERIC_NOUNS customer service
-GENERIC_NOUNS data
-GENERIC_NOUNS deep learning
+GENERIC_NOUN customer service
+GENERIC_NOUN data
+GENERIC_NOUN deep learning
 GENERIC_NOUNS deliverables
 GENERIC_NOUNS delivery models
-GENERIC_NOUNS 'doing good while doing well' ethos
-GENERIC_NOUNS e-business
-GENERIC_NOUNS e-commerce
+GENERIC_NOUN 'doing good while doing well' ethos
+GENERIC_NOUN e-business
+GENERIC_NOUN e-commerce
 GENERIC_NOUNS e-markets
 GENERIC_NOUNS e-services
 GENERIC_NOUNS e-tailers
-GENERIC_NOUNS enterprise architecture
+GENERIC_NOUN enterprise architecture
 GENERIC_NOUNS experiences
-GENERIC_NOUNS expertise
+GENERIC_NOUN expertise
 GENERIC_NOUNS frameworks
 GENERIC_NOUNS functionalities
-GENERIC_NOUNS fungibility
+GENERIC_NOUN fungibility
 GENERIC_NOUNS growth drivers
 GENERIC_NOUNS growth strategies
-GENERIC_NOUNS human capital
+GENERIC_NOUN human capital
 GENERIC_NOUNS ideas
 GENERIC_NOUNS imperatives
 GENERIC_NOUNS infomediaries
-GENERIC_NOUNS information
+GENERIC_NOUN information
 GENERIC_NOUNS infrastructures
 GENERIC_NOUNS initiatives
-GENERIC_NOUNS innovation
-GENERIC_NOUNS intellectual capital
+GENERIC_NOUN innovation
+GENERIC_NOUN intellectual capital
 GENERIC_NOUNS interfaces
 GENERIC_NOUNS internal or 'organic' sources
 GENERIC_NOUNS key audience segments
 GENERIC_NOUNS key performance indicators
-GENERIC_NOUNS leadership
+GENERIC_NOUN leadership
 GENERIC_NOUNS leadership skills
-GENERIC_NOUNS 'remote leadership'
+GENERIC_NOUN 'remote leadership'
 GENERIC_NOUNS Diverse Remote Teams
 GENERIC_NOUNS logistics
 GENERIC_NOUNS manufactured products
@@ -1608,15 +1672,15 @@ GENERIC_NOUNS meta-services
 GENERIC_NOUNS methodologies
 GENERIC_NOUNS methods of empowerment
 GENERIC_NOUNS metrics
-GENERIC_NOUNS mindshare
+GENERIC_NOUN mindshare
 GENERIC_NOUNS models
 GENERIC_NOUNS networks
 GENERIC_NOUNS niche markets
 GENERIC_NOUNS niches
 GENERIC_NOUNS opportunities
 GENERIC_NOUNS organisational culture
-GENERIC_NOUNS 'out of the box' thinking
-GENERIC_NOUNS outsourcing
+GENERIC_NOUN 'out of the box' thinking
+GENERIC_NOUN outsourcing
 GENERIC_NOUNS paradigms
 GENERIC_NOUNS partnerships
 GENERIC_NOUNS platforms
@@ -1626,7 +1690,7 @@ GENERIC_NOUNS process improvements
 GENERIC_NOUNS processes
 GENERIC_NOUNS products
 GENERIC_NOUNS quality vectors
-GENERIC_NOUNS reinforcement learning
+GENERIC_NOUN reinforcement learning
 GENERIC_NOUNS relationships
 GENERIC_NOUNS resources
 GENERIC_NOUNS responsibility assignment matrices (RAMS)
@@ -1641,63 +1705,63 @@ GENERIC_NOUNS solutions
 GENERIC_NOUNS sources
 GENERIC_NOUNS sprints
 GENERIC_NOUNS standard operating procedures
-GENERIC_NOUNS storage
+GENERIC_NOUN storage
 GENERIC_NOUNS strategic imperatives
 GENERIC_NOUNS strategic theme areas
 GENERIC_NOUNS supply chains
 GENERIC_NOUNS survival strategies for the next 5 years
-GENERIC_NOUNS synergy
+GENERIC_NOUN synergy
 GENERIC_NOUNS systems
-GENERIC_NOUNS talent release
+GENERIC_NOUN talent release
 GENERIC_NOUNS technologies
 GENERIC_NOUNS technology
 GENERIC_NOUNS testing procedures
-GENERIC_NOUNS total linkage
+GENERIC_NOUN total linkage
 GENERIC_NOUNS transformation
 GENERIC_NOUNS transversalities
 GENERIC_NOUNS users
-GENERIC_NOUNS value
-GENERIC_NOUNS value proposition
+GENERIC_NOUN value
+GENERIC_NOUN value proposition
 GENERIC_NOUNS vertically aligned portals
 GENERIC_NOUNS virtualization
 GENERIC_NOUNS web services
-GENERIC_NOUNS web-readiness
+GENERIC_NOUN web-readiness
 GENERIC_NOUNS wins
-GENERIC_NOUNS oppugnancy
-GENERIC_NOUNS machine learning
-GENERIC_NOUNS 'Voice of customer'
+GENERIC_NOUN oppugnancy
+GENERIC_NOUN machine learning
+GENERIC_NOUN 'Voice of customer'
 GENERIC_NOUNS design options
 GENERIC_NOUNS grocery penetration
-GENERIC_NOUNS deep dive
+GENERIC_NOUN deep dive
 GENERIC_NOUNS business success
 GENERIC_NOUNS market drivers
 GENERIC_NOUNS conversion and storytelling
 GENERIC_NOUNS future-critical markets
 GENERIC_NOUNS AI applications portfolios
-GENERIC_NOUNS blockchain enablement
+GENERIC_NOUN blockchain enablement
 GENERIC_NOUNS blockchains
-GENERIC_NOUNS real impact
-GENERIC_NOUNS agile pivoting
+GENERIC_NOUN real impact
+GENERIC_NOUN agile pivoting
 GENERIC_NOUNS root-cause analyses
 GENERIC_NOUNS end-to-end solutions
 GENERIC_NOUNS end-to-end workflows
 GENERIC_NOUNS Objectives and Key Results (OKRs)
 GENERIC_NOUNS further strides
-GENERIC_NOUNS 'putting our people at the centre of everything we do'
+GENERIC_NOUN 'putting our people at the centre of everything we do'
 GENERIC_NOUNS installed base selling
 GENERIC_NOUNS aftersales success
 GENERIC_NOUNS Adaptive and Agile business
 GENERIC_NOUNS ambition statements
 GENERIC_NOUNS value statements
-GENERIC_NOUNS stakeholder decision making
+GENERIC_NOUN stakeholder decision making
 GENERIC_NOUNS omnichannel savviness
-GENERIC_NOUNS working up to a 'hard stop' at 3pm
+GENERIC_NOUN working up to a 'hard stop' at 3pm
 GENERIC_NOUNS level-set expectations
-GENERIC_NOUNS double-digit growth
-GENERIC_NOUNS embedded strategic advantage
+GENERIC_NOUN double-digit growth
+GENERIC_NOUN embedded strategic advantage
 GENERIC_NOUNS topline sales
 GENERIC_NOUNS campaign formats
-GENERIC_NOUNS digital business transformation (DBT)
+GENERIC_NOUN digital business transformation (DBT)
 
 GENERIC_VERB actualize
 GENERIC_VERB administrate
@@ -1785,7 +1849,6 @@ GENERIC_VERB reconceptualize
 GENERIC_VERB redefine
 GENERIC_VERB reintermediate
 GENERIC_VERB reinvent
-GENERIC_VERB releasing
 GENERIC_VERB repurpose
 GENERIC_VERB restore
 GENERIC_VERB revolutionize
@@ -1829,13 +1892,23 @@ GENERIC_DELIVER_VERB install
 GENERIC_DELIVER_VERB supply
 GENERIC_DELIVER_VERB unleash
 
-GENERIC_PAST_MOMENT the pandemic
-GENERIC_PAST_MOMENT the millenium
-GENERIC_PAST_MOMENT the 5 years ago
-GENERIC_PAST_MOMENT the 10 years ago
-GENERIC_PAST_MOMENT the most recent market downturn
-GENERIC_PAST_MOMENT the last decade
+GENERIC_PAST_MOMENT before the pandemic
+GENERIC_PAST_MOMENT before the millenium
+GENERIC_PAST_MOMENT 5 years ago
+GENERIC_PAST_MOMENT 10 years ago
+GENERIC_PAST_MOMENT during the last year
+GENERIC_PAST_MOMENT prior to the most recent market downturn
+GENERIC_PAST_MOMENT just before the last decade
+GENERIC_PAST_MOMENT after the last election
+GENERIC_PAST_MOMENT before the last election
 
+GENERIC_PERSON commentator
+GENERIC_PERSON journalist
+GENERIC_PERSON analyst
+GENERIC_PERSON homeowner
+GENERIC_PERSON homeworker
+GENERIC_PERSON worker
+GENERIC_PERSON relative
 
 
 SCIPAPER_LATEX {
